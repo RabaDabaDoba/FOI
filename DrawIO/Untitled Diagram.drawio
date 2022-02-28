@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T13:20:33.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qXa6_vSwo5UUVzqErCES" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T14:35:51.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JrZ3aSRfUYC8yCSt1XK8" version="16.6.4" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Planning">
     <mxGraphModel dx="2178" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="1">
       <root>
@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ySk2Vlh-JJ7_6fYRLz9M" name="Question tree">
-    <mxGraphModel dx="988" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A1XsaQWEt6Dcyz0INdiB-0" />
         <mxCell id="A1XsaQWEt6Dcyz0INdiB-1" parent="A1XsaQWEt6Dcyz0INdiB-0" />
@@ -166,11 +166,22 @@
         <mxCell id="FdDVNg_8a53_Hm-rvYio-0" value="&lt;font style=&quot;font-size: 13px&quot;&gt;How does the effect of being in an extended reality simulation affect the immersiveness and realism compared with previous methods?&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
           <mxGeometry x="1952.5" y="1410" width="260" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;strokeWidth=4;" edge="1" parent="A1XsaQWEt6Dcyz0INdiB-1" source="FdDVNg_8a53_Hm-rvYio-2" target="FdDVNg_8a53_Hm-rvYio-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;strokeWidth=4;" edge="1" parent="A1XsaQWEt6Dcyz0INdiB-1" source="FdDVNg_8a53_Hm-rvYio-2" target="FdDVNg_8a53_Hm-rvYio-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FdDVNg_8a53_Hm-rvYio-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;How does the effect of being in an extended reality simulation affect the immersiveness compared with previous methods?&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
           <mxGeometry x="1660" y="1100" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FdDVNg_8a53_Hm-rvYio-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;How does the effect of being in an extended reality simulation affect the realism compared with previous methods?&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
           <mxGeometry x="2240" y="1100" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;strokeWidth=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="A1XsaQWEt6Dcyz0INdiB-1" source="FdDVNg_8a53_Hm-rvYio-7" target="FJ5-CNPnMXr47pAqUq3q-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1076.6282390121291" y="1026.9654151109166" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FdDVNg_8a53_Hm-rvYio-7" value="&lt;font style=&quot;font-size: 13px&quot;&gt;How does the effect of being in an extended reality simulation affect the immersiveness?&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
           <mxGeometry x="1180" y="990" width="260" height="260" as="geometry" />
@@ -178,6 +189,32 @@
         <mxCell id="FdDVNg_8a53_Hm-rvYio-8" value="&lt;font style=&quot;font-size: 13px&quot;&gt;How does the effect of being in an extended reality simulation affect the immersiveness compared with previous methods?&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
           <mxGeometry x="1460" y="760" width="260" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Aspects of Immersiveness&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;fontStyle=1;rounded=0;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="900" y="720" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-7" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=24;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-8" value="Visual" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=24;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="757" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-9" value="Motion" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=24;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="950" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-10" value="Haptic" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=24;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="1140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJ5-CNPnMXr47pAqUq3q-11" value="Tactile" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=24;fontColor=#2F5B7C;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="A1XsaQWEt6Dcyz0INdiB-1">
+          <mxGeometry x="1330" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gFk8vY4aRsBFwCpkGvnX" name="Page-3">
+    <mxGraphModel dx="1089" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0_8jsEjBd1_aoObyXBhw-0" />
+        <mxCell id="0_8jsEjBd1_aoObyXBhw-1" parent="0_8jsEjBd1_aoObyXBhw-0" />
       </root>
     </mxGraphModel>
   </diagram>
