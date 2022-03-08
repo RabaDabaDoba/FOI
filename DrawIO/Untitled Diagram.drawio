@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T10:27:55.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6dS2CZ8_O8_lu7Ok2bkr" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-08T14:24:00.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="uE_otiZlSwE2kBVMORdA" version="16.6.4" type="github" pages="3">
   <diagram name="Planning" id="Tfmm5qyxMMr6doqR-_Cg">
     <mxGraphModel dx="3111" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="1">
       <root>
@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Question tree" id="UWl4M_UTHhgCCxSoIqge">
-    <mxGraphModel dx="4457" dy="4911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3247" dy="4054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A1XsaQWEt6Dcyz0INdiB-0" />
         <mxCell id="A1XsaQWEt6Dcyz0INdiB-1" parent="A1XsaQWEt6Dcyz0INdiB-0" />
@@ -542,21 +542,21 @@
           </mxCell>
         </UserObject>
         <mxCell id="MDYs6MYzQmVvZUjrkI6g-3" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" connectable="0" parent="A1XsaQWEt6Dcyz0INdiB-1">
-          <mxGeometry x="1130" y="1710" width="1680" height="370" as="geometry" />
+          <mxGeometry x="1140" y="1320" width="1680" height="370" as="geometry" />
         </mxCell>
         <mxCell id="MDYs6MYzQmVvZUjrkI6g-5" value="&lt;b style=&quot;font-size: 39px&quot;&gt;1. Which XR &lt;/b&gt;&lt;span style=&quot;font-size: 39px&quot;&gt;&lt;b&gt;technology implementation&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;between two MR solutions and one VR solution maximizes the accuracy, precision and speed when interacting with different sized buttons&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;when flying in flight simulation rig using a HMD?&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="MDYs6MYzQmVvZUjrkI6g-3">
           <mxGeometry x="10" y="41.4" width="1660" height="318.6" as="geometry" />
         </mxCell>
         <mxCell id="MDYs6MYzQmVvZUjrkI6g-6" value="" style="group;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="A1XsaQWEt6Dcyz0INdiB-1">
-          <mxGeometry x="1120" y="2150" width="1680" height="370" as="geometry" />
+          <mxGeometry x="1135" y="1810" width="1680" height="370" as="geometry" />
         </mxCell>
         <mxCell id="MDYs6MYzQmVvZUjrkI6g-8" value="&lt;b style=&quot;font-size: 39px&quot;&gt;2. Which of the implemented XR technologies&#39; configuration maximizes the&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;objective level of sensory fidelity (immersion), and&amp;nbsp;subjective psychological response (presense)&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;when flying in flight simulation rig using a HMD?&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;(&lt;/b&gt;&lt;span style=&quot;font-size: 39px&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_162-1&quot;&gt;Berkman M.I., Akan E. (2019)&lt;/a&gt;)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="MDYs6MYzQmVvZUjrkI6g-6">
           <mxGeometry x="20" y="41.4" width="1660" height="298.6" as="geometry" />
         </mxCell>
         <mxCell id="MDYs6MYzQmVvZUjrkI6g-9" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" connectable="0" parent="A1XsaQWEt6Dcyz0INdiB-1">
-          <mxGeometry x="1130" y="2600" width="1680" height="370" as="geometry" />
+          <mxGeometry x="1135" y="2290" width="1680" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="MDYs6MYzQmVvZUjrkI6g-11" value="&lt;b style=&quot;font-size: 39px&quot;&gt;3. Which of the&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;implemented XR technologies has the least impact of&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 39px&quot;&gt;&lt;b&gt;nausea, oculomotor issues and general disorientation&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;(cybersickness)&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;when flying in flight simulation rig using a HMD?&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;? (&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/107118139704100292&quot;&gt;Key M. et. al (1997)&lt;/a&gt;)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="MDYs6MYzQmVvZUjrkI6g-9">
+        <mxCell id="MDYs6MYzQmVvZUjrkI6g-11" value="&lt;b style=&quot;font-size: 39px&quot;&gt;3. Which of the&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;&amp;nbsp;implemented XR technologies has the least impact of&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 39px&quot;&gt;&lt;b&gt;nausea, oculomotor issues and general disorientation&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;(cybersickness)&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;when flying in flight simulation rig using a HMD&lt;/b&gt;&lt;b style=&quot;font-size: 39px&quot;&gt;? (&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/107118139704100292&quot;&gt;Key M. et. al (1997)&lt;/a&gt;)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="MDYs6MYzQmVvZUjrkI6g-9">
           <mxGeometry x="50" y="41.4" width="1590" height="218.6" as="geometry" />
         </mxCell>
       </root>
